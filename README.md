@@ -10,16 +10,16 @@ Required Setup
 
 Chatroom commands
 --------------
-All commands start with '/' followed by the command
-If command require an argument have a space between command and arugment
-/u username         - change username
-/j roomname         - joing chatroom
-/l roomname         - leave chatroom 
-/c roomname         - create chatroom 
-/d roomname         - set chatroom as default room 
-/all                - displays all chatrooms on server
-/mem                - displays all memeber in your default chatroom
-/where              - displays chatrooms that user is a memeber of
-/quit               - disconnects from chat server
-/(chatroom) message - sends a message to a chatroom
-/[username] message - sends a private message to a user\n
+All commands start with '/' followed by the command <br />
+If command require an argument have a space between command and arugment <br />
+/u username         - change username <br />
+/j roomname         - joing chatroom <br />
+/l roomname         - leave chatroom  <br />
+/c roomname         - create chatroom  <br />
+/d roomname         - set chatroom as default room  <br />
+/all                - displays all chatrooms on server <br />
+/mem                - displays all memeber in your default chatroom <br />
+/where              - displays chatrooms that user is a memeber of <br />
+/quit               - disconnects from chat server <br />
+/(chatroom) message - sends a message to a chatroom <br />
+/[username] message - sends a private message to a user <br />
